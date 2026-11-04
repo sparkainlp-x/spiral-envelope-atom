@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: spiral-envelope-atoms
+version: 0.1.0
+date-released: 2026-11-02
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    affiliation: Spark AI NLP
+license: AGPL-3.0-only
+message: >-
+  If you use this software, please cite it using these metadata.
+  Classical wave-envelope analogy toy, synthetic only. No claim
+  about real atoms, real electromagnetism, or quantum mechanics.
+abstract: >-
+  A classical wave toy on a 2D disk: a decaying radial envelope times
+  a helical spiral phase. Discrete modes ("atoms") are selected by a
+  frozen closure gate (integer azimuthal number, integer number of
+  spiral pitches across the disk radius), and a stated resolution rule
+  measures how envelope decay changes the resolved closure set.
+  Standard library only.
